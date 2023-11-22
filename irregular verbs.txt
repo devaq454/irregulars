@@ -16,10 +16,10 @@
 ловить                  catch       cought      cought
 выбирать                choose      chose       chosen
 приходить               come        came        come
-назначать цену          cost        cost        cost
+назначать_цену          cost        cost        cost
 ползти                  creep       crept       crept
 резать                  cut         cut         cut
-иметь дело              deal        dealt       dealt
+иметь_дело              deal        dealt       dealt
 копать                  dig         dig         dig
 делать                  do          did         done
 рисовать                draw        drew        drown
@@ -47,25 +47,25 @@
 скрывать                hide        hid         hidden
 ударить                 hit         hit         hit
 удерживать              hold        held        held
-причинять боль          hurt        hurt        hurt 
+причинять_боль          hurt        hurt        hurt 
 держать                 keep        kept        kept
-стать на колени         kneel       knelt       knelt
+стать_на_колени         kneel       knelt       knelt
 знать                   know        knew        known
 положить(лежать)        lay         laid        laid
 руководить              lead        led         led
 покинуть                leave       left        left
-дать взаймы             lend        lent        lent
+дать_взаймы             lend        lent        lent
 позволять               let         let         let
 лежать                  lie         lay         lain
 светить                 light       lit         lit
 потерять                lose        lost        lost
 делать                  make        made        made
-иметь в виду            mean        meant       meant
+иметь_в_виду            mean        meant       meant
 встречать               meet        met         met
 заплатить               pay         paid        paid
 класть                  put         put         put
 читать                  read        read        read
-ездить верхом           ride        rode        ridden
+ездить_верхом           ride        rode        ridden
 звонить                 ring        rang        rung
 подниматься             rise        rose        risen
 бежать                  run         ran         run
