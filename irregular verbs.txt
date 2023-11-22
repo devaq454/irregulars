@@ -5,7 +5,7 @@
 становиться             become      became      become
 начинать                begin       began       begun
 согнуть                 bend        bent        bent
-ставить                 bet         bet         bet
+делать ставку           bet         bet         bet
 кусать                  bite        bit         bitten
 дуть                    blow        blew        blown
 прерывать(ломать)       break       broke       broken
