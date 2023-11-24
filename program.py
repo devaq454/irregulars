@@ -11,8 +11,8 @@ for i in open("irregular verbs.txt", 'r'):
     dictionary[k] = v
 
 keys = list(dictionary.keys())
-print(dictionary)
 while True:
     word = random.choice(keys)
-    input(word)
+    input(word + " ")
     print(*dictionary[word])
+
