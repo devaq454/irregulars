@@ -2,7 +2,7 @@
 train irregular verbs on russian from "grammar in use Raymond Murphy fifth edition"
 
 *Перевод* | *Infinitive* | *Past Simple* | *Past Participle*
---- | --- | ---
+--- | --- | --- | ---
 быть, являться | be | was/were| been
 бить, колотить | beat | beat| beaten
 становиться | become | became| become
